@@ -1,0 +1,3 @@
+[submodule "WindowsPhone/ERDF/ERDF/www"]
+	path = WindowsPhone/ERDF/ERDF/www
+	url = git@github.com:vcarluer/ERDF-Web.git
