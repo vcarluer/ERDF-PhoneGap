@@ -79,13 +79,27 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="CordovaSourceDictionary.xml" />
+    <Content Include="www\ChangerPuissance.html" />
+    <Content Include="www\cordova-1.5.0.js" />
+    <Content Include="www\Demenage.html" />
+    <Content Include="www\DeplacerCompteur.html" />
+    <Content Include="www\javascripts\cordova-1.5.0.js" />
+    <Content Include="www\javascripts\jquery-1.6.4.min.js" />
+    <Content Include="www\javascripts\jquery.mobile-1.0.1.min.js" />
+    <Content Include="www\Panne.html" />
+    <Content Include="www\ReleverCompteur.html" />
+    <Content Include="www\stylesheets\images\ajax-loader.png" />
+    <Content Include="www\stylesheets\images\icons-18-black.png" />
+    <Content Include="www\stylesheets\images\icons-18-white.png" />
+    <Content Include="www\stylesheets\images\icons-36-black.png" />
+    <Content Include="www\stylesheets\images\icons-36-white.png" />
+    <Content Include="www\stylesheets\jquery.mobile-1.0.1.min.css" />
     <None Include="BuildManifestProcessor.js" />
     <Content Include="GapLib\WP7CordovaClassLib.dll" />
-    <Content Include="www\cordova-1.5.0.js" />
+    <Content Include="www\images\logoERDF.png" />
     <Content Include="www\index.html">
       <SubType>Designer</SubType>
     </Content>
-    <Content Include="www\master.css" />
     <None Include="Properties\AppManifest.xml">
       <SubType>Designer</SubType>
     </None>
